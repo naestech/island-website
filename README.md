@@ -1,4 +1,7 @@
-#nadine-notes: 3-4-24: initialized nav-bar. stopped @ 18:59.
+#nadine-notes: 
+3-4-24: initialized nav-bar. stopped @ 18:59.
+3-5-24: finished creating nav-bar, initialized castle. stopped @ 36:15
+
 
 # React + Vite
 
